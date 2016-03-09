@@ -3,3 +3,4 @@
 
 ## 截图：
 ![Screenshots_Row1](https://github.com/flypigrmvb/ScrollToSeeDetail/blob/master/screenshots/IMG_1539.PNG)
+![Screenshots_Row1](https://github.com/flypigrmvb/ScrollToSeeDetail/blob/master/screenshots/IMG_1540.PNG)
